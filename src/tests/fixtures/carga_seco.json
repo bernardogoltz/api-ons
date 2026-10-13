@@ -1,0 +1,80 @@
+[
+  {
+    "cod_areacarga": "SECO",
+    "din_atualizacao": "2026-08-14T03:53:38.549Z",
+    "dat_referencia": "2024-01-01",
+    "din_referenciautc": "2024-01-01T03:30:00.000Z",
+    "val_cargaglobal": 35008.78,
+    "val_cargaglobalcons": 35008.78,
+    "val_cargaglobalsmmgd": 34889.6,
+    "val_cargasupervisionada": 32619.27,
+    "val_carganaosupervisionada": 2270.33,
+    "val_cargammgd": 119.18,
+    "val_consistencia": 0
+  },
+  {
+    "cod_areacarga": "SECO",
+    "din_atualizacao": "2026-08-14T03:53:38.549Z",
+    "dat_referencia": "2024-01-01",
+    "din_referenciautc": "2024-01-01T04:00:00.000Z",
+    "val_cargaglobal": 35010.066,
+    "val_cargaglobalcons": 35010.066,
+    "val_cargaglobalsmmgd": 34890.887,
+    "val_cargasupervisionada": 32625.416,
+    "val_carganaosupervisionada": 2265.4714,
+    "val_cargammgd": 119.18,
+    "val_consistencia": 0
+  },
+  {
+    "cod_areacarga": "SECO",
+    "din_atualizacao": "2026-08-14T03:53:38.549Z",
+    "dat_referencia": "2024-01-01",
+    "din_referenciautc": "2024-01-01T04:30:00.000Z",
+    "val_cargaglobal": 34988.684,
+    "val_cargaglobalcons": 34988.684,
+    "val_cargaglobalsmmgd": 34869.504,
+    "val_cargasupervisionada": 32608.037,
+    "val_carganaosupervisionada": 2261.4656,
+    "val_cargammgd": 119.18,
+    "val_consistencia": 0
+  },
+  {
+    "cod_areacarga": "SECO",
+    "din_atualizacao": "2026-08-14T03:53:38.549Z",
+    "dat_referencia": "2024-01-01",
+    "din_referenciautc": "2024-01-01T05:00:00.000Z",
+    "val_cargaglobal": 34996.758,
+    "val_cargaglobalcons": 34996.758,
+    "val_cargaglobalsmmgd": 34877.58,
+    "val_cargasupervisionada": 32618.018,
+    "val_carganaosupervisionada": 2259.561,
+    "val_cargammgd": 119.18,
+    "val_consistencia": 0
+  },
+  {
+    "cod_areacarga": "SECO",
+    "din_atualizacao": "2026-08-14T03:53:38.549Z",
+    "dat_referencia": "2024-01-01",
+    "din_referenciautc": "2024-01-01T05:30:00.000Z",
+    "val_cargaglobal": 34810.82,
+    "val_cargaglobalcons": 34810.82,
+    "val_cargaglobalsmmgd": 34691.64,
+    "val_cargasupervisionada": 32432.574,
+    "val_carganaosupervisionada": 2259.0671,
+    "val_cargammgd": 119.18,
+    "val_consistencia": 0
+  },
+  {
+    "cod_areacarga": "SECO",
+    "din_atualizacao": "2026-08-14T03:53:38.549Z",
+    "dat_referencia": "2024-01-01",
+    "din_referenciautc": "2024-01-01T06:00:00.000Z",
+    "val_cargaglobal": 34585.836,
+    "val_cargaglobalcons": 34585.836,
+    "val_cargaglobalsmmgd": 34466.656,
+    "val_cargasupervisionada": 32206.568,
+    "val_carganaosupervisionada": 2260.0884,
+    "val_cargammgd": 119.18,
+    "val_consistencia": 0
+  }
+]

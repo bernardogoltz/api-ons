@@ -1,0 +1,80 @@
+[
+  {
+    "cod_areacarga": "RS",
+    "din_atualizacao": "2026-08-14T03:53:32.021Z",
+    "dat_referencia": "2024-01-01",
+    "din_referenciautc": "2024-01-01T03:30:00.000Z",
+    "val_cargaglobal": 3017.382,
+    "val_cargaglobalcons": 3017.382,
+    "val_cargaglobalsmmgd": 3004.592,
+    "val_cargasupervisionada": 2727.4866,
+    "val_carganaosupervisionada": 277.1055,
+    "val_cargammgd": 12.79,
+    "val_consistencia": 0
+  },
+  {
+    "cod_areacarga": "RS",
+    "din_atualizacao": "2026-08-14T03:53:32.021Z",
+    "dat_referencia": "2024-01-01",
+    "din_referenciautc": "2024-01-01T04:00:00.000Z",
+    "val_cargaglobal": 3035.1934,
+    "val_cargaglobalcons": 3035.1934,
+    "val_cargaglobalsmmgd": 3022.4033,
+    "val_cargasupervisionada": 2747.194,
+    "val_carganaosupervisionada": 275.2092,
+    "val_cargammgd": 12.79,
+    "val_consistencia": 0
+  },
+  {
+    "cod_areacarga": "RS",
+    "din_atualizacao": "2026-08-14T03:53:32.021Z",
+    "dat_referencia": "2024-01-01",
+    "din_referenciautc": "2024-01-01T04:30:00.000Z",
+    "val_cargaglobal": 3019.2485,
+    "val_cargaglobalcons": 3019.2485,
+    "val_cargaglobalsmmgd": 3006.4585,
+    "val_cargasupervisionada": 2733.0325,
+    "val_carganaosupervisionada": 273.426,
+    "val_cargammgd": 12.79,
+    "val_consistencia": 0
+  },
+  {
+    "cod_areacarga": "RS",
+    "din_atualizacao": "2026-08-14T03:53:32.021Z",
+    "dat_referencia": "2024-01-01",
+    "din_referenciautc": "2024-01-01T05:00:00.000Z",
+    "val_cargaglobal": 2977.7983,
+    "val_cargaglobalcons": 2977.7983,
+    "val_cargaglobalsmmgd": 2965.0083,
+    "val_cargasupervisionada": 2693.0945,
+    "val_carganaosupervisionada": 271.9137,
+    "val_cargammgd": 12.79,
+    "val_consistencia": 0
+  },
+  {
+    "cod_areacarga": "RS",
+    "din_atualizacao": "2026-08-14T03:53:32.021Z",
+    "dat_referencia": "2024-01-01",
+    "din_referenciautc": "2024-01-01T05:30:00.000Z",
+    "val_cargaglobal": 2921.6748,
+    "val_cargaglobalcons": 2921.6748,
+    "val_cargaglobalsmmgd": 2908.8848,
+    "val_cargasupervisionada": 2638.2332,
+    "val_carganaosupervisionada": 270.6516,
+    "val_cargammgd": 12.79,
+    "val_consistencia": 0
+  },
+  {
+    "cod_areacarga": "RS",
+    "din_atualizacao": "2026-08-14T03:53:32.021Z",
+    "dat_referencia": "2024-01-01",
+    "din_referenciautc": "2024-01-01T06:00:00.000Z",
+    "val_cargaglobal": 2853.8823,
+    "val_cargaglobalcons": 2853.8823,
+    "val_cargaglobalsmmgd": 2841.0923,
+    "val_cargasupervisionada": 2571.3503,
+    "val_carganaosupervisionada": 269.7419,
+    "val_cargammgd": 12.79,
+    "val_consistencia": 0
+  }
+]

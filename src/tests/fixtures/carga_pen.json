@@ -1,0 +1,80 @@
+[
+  {
+    "cod_areacarga": "PEN",
+    "din_atualizacao": "2024-01-02T03:02:27.135Z",
+    "dat_referencia": "2024-01-01",
+    "din_referenciautc": "2024-01-01T03:30:00.000Z",
+    "val_cargaglobal": 414.7872,
+    "val_cargaglobalcons": 414.7872,
+    "val_cargaglobalsmmgd": 414.7872,
+    "val_cargasupervisionada": 414.7872,
+    "val_carganaosupervisionada": 0,
+    "val_cargammgd": 0,
+    "val_consistencia": 0
+  },
+  {
+    "cod_areacarga": "PEN",
+    "din_atualizacao": "2024-01-02T03:02:27.135Z",
+    "dat_referencia": "2024-01-01",
+    "din_referenciautc": "2024-01-01T04:00:00.000Z",
+    "val_cargaglobal": 427.6304,
+    "val_cargaglobalcons": 427.6304,
+    "val_cargaglobalsmmgd": 427.6304,
+    "val_cargasupervisionada": 427.6304,
+    "val_carganaosupervisionada": 0,
+    "val_cargammgd": 0,
+    "val_consistencia": 0
+  },
+  {
+    "cod_areacarga": "PEN",
+    "din_atualizacao": "2024-01-02T03:02:27.135Z",
+    "dat_referencia": "2024-01-01",
+    "din_referenciautc": "2024-01-01T04:30:00.000Z",
+    "val_cargaglobal": 427.173,
+    "val_cargaglobalcons": 427.173,
+    "val_cargaglobalsmmgd": 427.173,
+    "val_cargasupervisionada": 427.173,
+    "val_carganaosupervisionada": 0,
+    "val_cargammgd": 0,
+    "val_consistencia": 0
+  },
+  {
+    "cod_areacarga": "PEN",
+    "din_atualizacao": "2024-01-02T03:02:27.135Z",
+    "dat_referencia": "2024-01-01",
+    "din_referenciautc": "2024-01-01T05:00:00.000Z",
+    "val_cargaglobal": 416.6639,
+    "val_cargaglobalcons": 416.6639,
+    "val_cargaglobalsmmgd": 416.6639,
+    "val_cargasupervisionada": 416.6639,
+    "val_carganaosupervisionada": 0,
+    "val_cargammgd": 0,
+    "val_consistencia": 0
+  },
+  {
+    "cod_areacarga": "PEN",
+    "din_atualizacao": "2024-01-02T03:02:27.135Z",
+    "dat_referencia": "2024-01-01",
+    "din_referenciautc": "2024-01-01T05:30:00.000Z",
+    "val_cargaglobal": 415.663,
+    "val_cargaglobalcons": 415.663,
+    "val_cargaglobalsmmgd": 415.663,
+    "val_cargasupervisionada": 415.663,
+    "val_carganaosupervisionada": 0,
+    "val_cargammgd": 0,
+    "val_consistencia": 0
+  },
+  {
+    "cod_areacarga": "PEN",
+    "din_atualizacao": "2024-01-02T03:02:27.135Z",
+    "dat_referencia": "2024-01-01",
+    "din_referenciautc": "2024-01-01T06:00:00.000Z",
+    "val_cargaglobal": 425.9195,
+    "val_cargaglobalcons": 425.9195,
+    "val_cargaglobalsmmgd": 425.9195,
+    "val_cargasupervisionada": 425.9195,
+    "val_carganaosupervisionada": 0,
+    "val_cargammgd": 0,
+    "val_consistencia": 0
+  }
+]
